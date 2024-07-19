@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obinna Iheanachor
 - 👀 I’m interested in Data Science/Data Engineering
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Data Science/Data Engineering projects
 - 📫 How to reach me: 
   * Email- datascientistobi@gmail.com
